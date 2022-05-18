@@ -1,5 +1,10 @@
 *.net
 *.cpp
 *.py
-*[aeiou]*.php
+
+
+
+
 !importent.py
+!rudra.py
+[aeiou]*.phi
